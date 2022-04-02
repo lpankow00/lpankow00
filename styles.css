@@ -24,6 +24,7 @@ body {
     font-weight: bolder;
     text-align: center;
     padding: 3em;
+    padding-right: 1em;
 }
 .sale {
     font-size: 50px;
